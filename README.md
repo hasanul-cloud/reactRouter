@@ -1,1 +1,1 @@
-# This code shows how to use React-Router, Params, and API.
+#This code shows how to use react-router, params, and API in React.js.
